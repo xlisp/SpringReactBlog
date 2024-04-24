@@ -7,7 +7,8 @@
 - [ ] use postgres as database
 - [ ] use orm like rails
 - [ ] use RESTful api & jwt 
- 
+- [ ] hack spring by clojure repl: https://github.com/MatrixSeven/clojure-nrepl-starter
+
 ## devs
 
 ```bash
