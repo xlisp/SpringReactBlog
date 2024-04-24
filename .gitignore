@@ -3,3 +3,5 @@ target/
 *.class
 .gradle/
 .mvn/
+frontend/node_modules
+
